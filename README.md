@@ -1,6 +1,8 @@
 # CypressSystem
 City of Toronto Problem Report and Solution System
 
+(A .jar file is also included for convenience to test out)
+
 
 CypressGUI.java and CypressGUI.form
 The main UI of the system. Includes functionality to Login/Logout, create/modify user accounts, and submit problems.
