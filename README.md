@@ -1,5 +1,9 @@
 # CypressSystem
 City of Toronto Problem Report and Solution System
+CYRPESS is a system intended to allow citizens of Toronto to report issues in the city for authorities. This systems allows for a 
+streamlined process in capturing information about the current state of the city. What this means for the typical citizen is more
+responsive solutions to problems. CYPRESS's priority ranking algorithm will find the most frequently reported problems in the city.
+A map is also provided to help the user visualize how reports are being presented. 
 
 (A .jar file is also included for convenience to test out)
 
