@@ -1169,7 +1169,7 @@ public class CypressGUI extends javax.swing.JFrame {
         ArrayList<String[]> list = new ArrayList<>();
         if (!markers.isEmpty()){
             for(PriorityStructure item: markers){
-                String[] str = item.concern.split("-");
+                String[] str = item.concern.split(" - ");
                 String location = str[0];
                 String concern = str[1];
                 list.add(new String[]{location,concern});
